@@ -6,7 +6,7 @@ Python Developer
 
 I want to become a senior programmer
 
-* 🌍  I'm based in Ukhta
+* 🌍  I'm based in Moscow
 * ✉️  You can contact me at [tanuki.evil@yandex.ru](mailto:tanuki.evil@yandex.ru)
 * 🧠  I'm learning Django, Flask and FastAPI
 * 🤝  I'm open to collaborating on interesting project
